@@ -1,0 +1,15 @@
+pandoc: 3.1.11
+pkgdown: 2.2.0
+pkgdown_sha: ~
+articles:
+  adding-tidiers: adding-tidiers.html
+  available-methods: available-methods.html
+  bootstrapping: bootstrapping.html
+  broom_and_dplyr: broom_and_dplyr.html
+  broom: broom.html
+  kmeans: kmeans.html
+  articles/maintenance: maintenance.html
+last_built: 2025-12-10T17:22Z
+urls:
+  reference: https://broom.tidymodels.org/reference
+  article: https://broom.tidymodels.org/articles
